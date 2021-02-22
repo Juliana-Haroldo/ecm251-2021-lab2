@@ -2,7 +2,7 @@
 Repositório criado para a disciplina Linguagens I
 
 # Desenvolvedor(a):
-## Juliana Gomes Haroldo
+- Juliana Gomes Haroldo
 
 # Linguagens e Frameworks:
 - Java
